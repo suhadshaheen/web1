@@ -1,0 +1,51 @@
+header{
+    background-image: url("../any2.jpg");
+    background-size: cover;
+    
+    
+}
+section{
+    background-image: url("../any2.jpg");
+    background-size:cover;
+    
+
+    
+}
+img{
+    border:2px solid rgb(114, 31, 117);
+    transform: translateX(20px);
+}
+body{
+    font-style: italic;
+    background-color: rgb(177, 174, 226);
+     
+   
+    
+}
+p{
+    color: rgb(67, 9, 121);
+    font-size: large;
+}
+h1{
+    color: #052b57;
+    background-color:rgb(177, 174, 226) ;
+}
+h2{
+    color: #052b57;
+    transform: translateX(20px);
+}
+nav{
+    background-image: url("../any2.jpg");
+    background-size:cover;
+}
+label{
+    color: rgb(67, 9, 121);
+    font-size: larger;
+}
+a {
+    color: rgb(64, 73, 170);
+    font-size: large;
+}
+
+
+    
