@@ -16,6 +16,7 @@ img{
     transform: translateX(20px);
 }
 body{
+    
     font-style: italic;
     background-color: rgb(177, 174, 226);
      
@@ -30,10 +31,6 @@ h1{
     color: #052b57;
     background-color:rgb(177, 174, 226) ;
 }
-h2{
-    color: #052b57;
-    transform: translateX(20px);
-}
 nav{
     background-image: url("../any2.jpg");
     background-size:cover;
@@ -46,6 +43,3 @@ a {
     color: rgb(64, 73, 170);
     font-size: large;
 }
-
-
-    
