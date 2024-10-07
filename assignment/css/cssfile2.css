@@ -1,0 +1,47 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 10px;
+    z-index: 0;
+    text-align: center;
+}
+main {
+    position: absolute;
+    left: 5;
+    width: 60%;
+    margin: 20px auto ; 
+    background-color: #E0E0E0;
+    padding: 15px;
+    z-index: 0; 
+}
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+aside {
+    position: fixed;
+    right: 30px;
+    top: 80px;
+    width: 30%;
+    margin: 20px auto ;
+    background-color: #D0D0D0;
+    padding: 15px;
+    z-index: 3; 
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #C0C0C0;
+    padding: 10px;
+    text-align: center;
+    z-index: 1;
+}
+body{
+    width: 100%;
+}
