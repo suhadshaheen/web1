@@ -8,9 +8,10 @@ header {
     z-index: 0;
     text-align: center;
 }
-main {
-    position: absolute;
-    left: 5;
+article{
+    position: relative;
+    top:20px;
+    right: 250px;
     width: 60%;
     margin: 20px auto ; 
     background-color: #E0E0E0;
@@ -20,12 +21,12 @@ main {
 nav {
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 0;
 }
 aside {
-    position: fixed;
+    position: absolute;
     right: 30px;
-    top: 80px;
+    top: 90px;
     width: 30%;
     margin: 20px auto ;
     background-color: #D0D0D0;
